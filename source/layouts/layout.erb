@@ -10,7 +10,48 @@
     <%= stylesheet_link_tag "site" %>
     <%= javascript_include_tag "site" %>
   </head>
-  <body>
+  <body style="padding : 0; margin: 0; background-color: gray">
+  <style>
+      #nav_div{
+          background-color: red;
+          width : 100%
+      }
+      #Nav_List {
+          float: left;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          list-style-type: none;
+      }
+      .nav_item{
+          float: left;
+      }
+      .nav_item a{
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 10px 10px;
+          text-decoration: none;
+      }
+      .nav_item a:hover{
+          color: red;
+          background-color: #333333;
+      }
+      #logo{
+          width: 5%;
+          clear: left;
+          display: inline;
+      }
+  </style>
+  <div id = "nav_div">
+  <%= tag :img, :src => "../source/images/OSU_logo.png", :id => "logo" %>
+    <ul id = "Nav_List">
+      <li class = "nav_item"><a href = "#">About</a></li>
+      <li class = "nav_item"><a href = "#">Publications</a></li>
+      <li class = "nav_item"><a href = "#">Presentations</a></li>
+    </ul>
+  </div>
+  <br />
     <%= yield %>
   </body>
 </html>
