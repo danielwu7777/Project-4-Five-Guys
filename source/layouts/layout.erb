@@ -17,7 +17,6 @@
           width : 100%
       }
       #Nav_List {
-          float: left;
           margin: 0;
           padding: 0;
           overflow: hidden;
@@ -32,26 +31,33 @@
           text-align: center;
           padding: 10px 10px;
           text-decoration: none;
+          font-size: xx-large;
+          margin-right: 10px;
       }
       .nav_item a:hover{
           color: red;
           background-color: #333333;
       }
       #logo{
-          width: 5%;
-          clear: left;
+            height: 50px;
           display: inline;
+          align-content: center;
+          float: right;
       }
   </style>
   <div id = "nav_div">
-  <%= tag :img, :src => "../source/images/OSU_logo.png", :id => "logo" %>
+
     <ul id = "Nav_List">
+      <%= tag :img, :src => "../source/images/OSU_logo.png", :id => "logo" %>
       <li class = "nav_item"><a href = "#">About</a></li>
-      <li class = "nav_item"><a href = "#">Publications</a></li>
+      <li class = "nav_item"><a href = "#">Publications</a> </li>
       <li class = "nav_item"><a href = "#">Presentations</a></li>
     </ul>
   </div>
   <br />
+
+
+
     <%= yield %>
   </body>
 </html>
