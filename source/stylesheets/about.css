@@ -2,3 +2,27 @@
     background-color: rgba(165, 165, 165, 0.89);
     margin: 150px 300px 150px;
 }
+
+.heading {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 1.1em; /* Increase size for readibility */
+}
+
+/* unvisited link */
+a:link {
+    color: #ff0000c0;
+}
+
+/* visited link */
+a:visited {
+    color: rgba(63, 63, 63, 0.89);
+}
+  
+/* mouse over link */
+a:hover {
+    color: #0026ffda;
+}
