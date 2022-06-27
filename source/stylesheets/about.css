@@ -1,5 +1,5 @@
 #about_me, #teaching, #contact {
-    background-color: rgba(165, 165, 165, 0.89);
+    background-color: gray;
 }
 
 .heading {
@@ -13,7 +13,7 @@ p {
 
 /* unvisited link */
 a:link {
-    color: #ff0000c0;
+    color: #ff000094;
 }
 
 /* visited link */
