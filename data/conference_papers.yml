@@ -1,0 +1,356 @@
+papers:
+  - authors:
+      - Saikat Majumdar
+      - Mohammad Hossein Samavatian
+      - Kristin Barber
+      - Radu Teodorescu
+    title: Using Undervolting as an On-Device Defense Against Adversarial Machine Learning Attacks
+    publisher: IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+    date: December 2021
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/resources/IEEE_HOST_2021_paper_74-3.pdf
+  - authors:
+    - Moein Ghaniyoun
+    - Kristin Barber
+    - Yinqian Zhang
+    - Radu Teodorescu
+    title: IntroSpectre&#58; A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities
+    publisher: International Symposium on Computer Architecture (ISCA)
+    date: June 2021
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/resources/introspectre-isca2021.pdf
+  - authors:
+      - Jia Guo
+      - Gagan Agrawal
+      - Radu Teodorescu
+    title: Fused DSConv&#58; Optimizing Sparse CNN Inference for Execution on Edge Devices
+    publisher: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, (CCGrid)
+    date: May 2021
+    file: missing
+  - authors:
+      - Mohammad Samavatian
+      - Anys Bacha
+      - Li Zhou
+      - Radu Teodorescu
+    title: RNNFast&#58; An Accelerator for Recurrent Neural Networks Using Domain Wall Memory
+    publisher: ACM Journal on Emerging Technologies in Computing Systems, (JETC)
+    date: 2020
+    file: https://dl.acm.org/doi/fullHtml/10.1145/3399670
+  - authors:
+      - Jia Guo
+      - Radu Teodorescu
+      - Gagan Agrawal
+    title: A Pattern-Based API for Mapping Applications to a Hierarchy of Multi-Core Devices
+    publisher: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+    date: May 2020
+    file: https://ieeexplore.ieee.org/document/9139746
+  - authors:
+      - Yuan Xiao
+      - Yinqian Zhang
+      - Radu Teodorescu
+    title: SPEECHMINER&#58; A Framework for Investigating and Measuring Speculative Execution Vulnerabilities
+    publisher: Network and Distributed System Security Symposium (NDSS)
+    date: 2020
+    file: https://www.ndss-symposium.org/ndss-paper/speechminer-a-framework-for-investigating-and-measuring-speculative-execution-vulnerabilities/
+  - authors:
+      - Li Zhou
+      - Mohammad Samavatian
+      - Anys Bacha
+      - Saikat Majumdar
+      - Radu Teodorescu
+    title: Adaptive parallel execution of deep neural networks on heterogeneous edge devices
+    publisher: ACM/IEEE Symposium on Edge Computing, (SEC)
+    date: 2019
+    file: https://dl.acm.org/doi/10.1145/3318216.3363312
+  - authors:
+      - Kristin Barber
+      - Anys Bacha
+      - Li Zhou
+      - Yinqian Zhang
+      - Radu Teodorescu
+    title: SpecShield&#58; Shielding Speculative Data from Microarchitectural Covert Channels
+    publisher: International Conference on Parallel Architectures and Compilation Techniques (PACT)
+    date: September 2019
+    file: http://web.cse.ohio-state.edu/~teodorescu.1/resources/papers/specshield_pact2019.pdf
+  - authors:
+      - Kristin Barber
+      - Anys Bacha
+      - Li Zhou
+      - Yinqian Zhang
+      - Radu Teodorescu
+    title: Isolating Speculative Data to Prevent Transient Execution Attacks
+    publisher: Computer Architecture Letters (CAL)
+    date: 2019
+    file: https://ieeexplore.ieee.org/document/8714070
+  - authors:
+      - Li Zhou
+      - Ren Chen
+      - Yinglong Xia
+      - Radu Teodorescu
+    title: C-Graph&#58; A highly efficient concurrent graph reachability query framework
+    publisher: International Conference on Parallel Processing (ICPP)
+    date: 2018
+    file: https://dl.acm.org/doi/10.1145/3225058.3225136
+  - authors:
+      - Xiang Pan
+      - Anys Bacha
+      - Spencer Rudolph
+      - Li Zhou
+      - Yinqian Zhang
+      - Radu Teodorescu
+    title: NVCool&#58; When Non-Volatile Caches Meet Cold Boot Attacks
+    publisher: IEEE International Conference on Computer Design (ICCD)
+    date: 2018
+    file: https://ieeexplore.ieee.org/document/8615722
+  - authors:
+      - Xiang Pan
+      - Anys Bacha
+      - Radu Teodorescu
+    title: Respin&#58; Rethinking Near-Threshold Multiprocessor Design with Non-Volatile Memory
+    publisher: IEEE International Parallel & Distributed Processing Symposium (IPDPS)
+    date: May 2017
+    file: https://ieeexplore.ieee.org/document/7967116
+  - authors:
+      - Venmugil Elango
+      - Naser Sedaghati
+      - Fabrice Rastello
+      - Louis-Noel Pouchet
+      - J. Ramanujam
+      - Radu Teodorescu
+      - P. Sadayappan
+    title: On Using the Roofline Model with Lower Bounds on Data Movement, HiPEAC
+    publisher: European Network on High-performance Embedded Architecture and Compilation
+    date: 2017
+    file: https://dl.acm.org/doi/10.1145/2693656
+  - authors:
+      - Dimitrios Skarlatos
+      - Renji Thomas
+      - Aditya Agrawal
+      - Shibin Qin
+      - Robert Pilawa
+      - Ulya Karpuzcu
+      - Radu Teodorescu
+      - Nam Sung Kim
+      - Josep Torrellas
+    title: Snatch&#58; Opportunistically Reassigning Power Allocation between Processor and Memory in 3D Stacks
+    publisher: International Symposium on Microarchitecture (MICRO)
+    date: October 2016
+    file: missing
+  - authors:
+      - Yuan Xiao
+      - Xiaokuan Zhang
+      - Yinqian Zhang
+      - Radu Teodorescu
+    title: One Bit Flips, One Cloud Flops&#58; Cross-VM Row Hammer Attacks and Privilege Escalation
+    publisher: USENIX Security'16
+    date: August 2016
+    file: https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_xiao.pdf
+  - authors:
+      - Renji Thomas
+      - Naser Sedaghati
+      - Radu Teodorescu
+    title: EmerGPU&#58; Understanding and Mitigating Resonance-Induced Voltage Noise in GPU Architectures
+    publisher: International Symposium on Performance Analysis of Systems and Software (ISPASS)
+    date: April 2016
+    file: http://ieeexplore.ieee.org/document/7482076/
+  - authors:
+      - Renji Thomas
+      - Kristin Barber
+      - Naser Sedaghati
+      - Li Zhou
+      - Radu Teodorescu
+    title: Core Tunneling&#58; Variation-Aware Voltage Noise Mitigation in GPUs
+    publisher: International Symposium on High-Performance Computer Architecture (HPCA)
+    date: March 2016
+    file: http://www.cse.ohio-state.edu/~teodores/download/papers/thomas_hpca2016.pdf
+  - authors:
+      - Anys Bacha
+      - Radu Teodorescu
+    title: Authenticache&#58; Harnessing Cache ECC for System Authentication
+    publisher: International Symposium on Microarchitecture (MICRO)
+    date: December 2015
+    file: http://www.cse.ohio-state.edu/~teodores/download/papers/bacha-micro15.pdf
+  - authors:
+      - Anys Bacha
+      - Radu Teodorescu
+    title: Using ECC Feedback to Guide Voltage Speculation in Low-Voltage Processors
+    publisher: International Symposium on Microarchitecture (MICRO)
+    date: December 2014
+    file: missing
+  - authors:
+      - Xiang Pan
+      - Radu Teodorescu
+    title: NVSleep&#58; Using Non-Volatile Memory to Enable Fast Sleep/Wakeup of Idle Cores
+    publisher: IEEE International Conference on Computer Design (ICCD)
+    date: October 2014
+    file: missing
+  - authors:
+      - Anys Bacha
+      - Radu Teodorescu
+    title: Dynamic Reduction of Voltage Margins by Leveraging On-chip ECC in Itanium II Processors
+    publisher: International Symposium on Computer Architecture (ISCA)
+    date: June 2013
+    file: http://www.cse.ohio-state.edu/~teodores/download/papers/bacha-isca13.pdf
+  - authors:
+      - Timothy N. Miller
+      - Renji Thomas
+      - Xiang Pan
+      - Radu Teodorescu
+    title: VRSync&#58; Characterizing and Eliminating Synchronization-Induced Voltage Emergencies in Many-core Processors
+    publisher: International Symposium on Computer Architecture (ISCA)
+    date: June 2012
+    file: http://www.cse.ohio-state.edu/~teodores/download/papers/vrsync-isca12.pdf
+  - authors:
+      - Timothy Miller
+      - Nagarjuna Surapaneni
+      - Radu Teodorescu
+    title: Runtime failure rate targeting for energy-efficient reliability in chip microprocessors
+    publisher:  Concurrency and Computation&#58; Practice and Experience (CCPE)
+    date: July 2012
+    file: http://onlinelibrary.wiley.com/doi/10.1002/cpe.2898/abstract
+  - authors:
+      - Timothy N. Miller
+      - Xiang Pan
+      - Renji Thomas
+      - Naser Sedaghati
+      - Radu Teodorescu
+    title: Booster&#58; Reactive Core Acceleration for Mitigating the Effects of Process Variation and Application Imbalance in Low-Voltage Chips
+    publisher: International Symposium on High-Performance Computer Architecture (HPCA)
+    date: February 2012
+    file: http://www.cse.ohio-state.edu/~teodores/download/papers/booster-hpca12.pdf
+  - authors:
+      - Timothy Miller
+      - Renji Thomas
+      - Radu Teodorescu
+    title: Mitigating the Effects of Process Variation in Ultra-low Voltage Chip Multiprocessors using Dual Supply Voltages and Half-Speed Units
+    publisher: IEEE Computer Architecture Letters (CAL)
+    date: 2012
+    file: http://www.cse.ohio-state.edu/~teodores/download/papers/ntcvar-cal12.pdf
+  - authors:
+      - Naser Sedaghati
+      - Renji Thomas
+      - Louis-Noel Pouchet
+      - Radu Teodorescu
+      - P. Sadayappan
+    title: StVEC&#58; A Vector Instruction Extension for High Performance Stencil Computation
+    publisher: International Conference on Parallel Architectures and Compilation Techniques (PACT)
+    date: October 2011
+    file: http://www.cse.ohio-state.edu/~sedaghat/download/sedaghati_pact_11.pdf
+  - authors:
+      - Timothy Miller
+      - James Dinan
+      - Renji Thomas
+      - Bruce Adcock
+      - Radu Teodorescu
+    title: Parichute&#58; Generalized Turbocode-Based Error Correction for Near-Threshold Caches
+    publisher: International Symposium on Microarchitecture (MICRO)
+    date: December 2010
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/parichute-micro2010.pdf
+  - authors:
+      - Timothy Miller
+      - Nagarjuna Surapaneni
+      - Radu Teodorescu
+    title: Flexible Error Protection for Energy Efficient Reliable Architectures
+    publisher: Flexible Error Protection for Energy Efficient Reliable Architectures
+    date: October 2010
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/flexarch-sbac10.pdf
+  - authors:
+      - Radu Teodorescu
+      - Josep Torrellas
+    title: Variation-Aware Application Scheduling and Power Management for Chip Multiprocessors
+    publisher: 35th International Symposium on Computer Architecture (ISCA)
+    date: June 2008
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/teodorescu-ISCA08.pdf
+  - authors:
+      - Smruti R. Sarangi
+      - Brian Greskamp
+      - Radu Teodorescu
+      - Jun Nakano
+      - Abhishek Tiwari
+      - Josep Torrellas
+    title: VARIUS&#58; A Model of Parameter Variation and Resulting Timing Errors for Microarchitects
+    publisher: IEEE Transactions on Semiconductor Manufacturing (IEEE TSM)
+    date: February 2008
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/varius-tsm.pdf
+  - authors:
+      - Radu Teodorescu
+      - Jun Nakano
+      - Abhishek Tiwari
+      - Josep Torrellas
+    title: Mitigating Parameter Variation with Dynamic Fine-Grain Body Biasing
+    publisher: 40th International Symposium on Microarchitecture (MICRO)
+    date: December 2007
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/dfgbb-micro07.pdf
+  - authors:
+      - Pin Zhou
+      - Radu Teodorescu
+      - Yuanyuan Zhou
+    title: HARD&#58; Hardware-Assisted Lockset-based Race Detection
+    publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+    date: February 2007
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/hard-HPCA07.pdf
+  - authors:
+      - Radu Teodorescu
+      - Jun Nakano
+      - Josep Torrellas
+    title: SWICH&#58; A Prototype for Efficient Cache-Level Checkpointing and Rollback
+    publisher: IEEE Micro, vol. 26
+    date: Sept/Oct, 2006
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/teodorescu-SWICH.pdf
+  - authors:
+      - Radu Teodorescu
+      - Josep Torrellas
+    title: Prototyping Architectural Support for Program Rollback Using FPGAs
+    publisher: IEEE Symposium on Field-Programmable Custom Computing Machines (FCCM)
+    date: April 2005
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/teodorescu-FCCM05.pdf
+  - authors:
+      - Nedevschi, S.
+      - Teodorescu, R.
+      - Gyongyi, Z.
+      - Nedevschi, S., Jr.
+      - Leuca, A.
+      - Olinic, D.
+    title: Integrated Medical Imaging Environment
+    publisher: International Conference on Automation, Quality, and Testing, Robotics
+    date: May 2002
+    file: missing
+  - authors:
+      - Nedevschi, S.
+      - Gyongyi, Z.
+      - Teodorescu, R.
+      - Nedevschi, S., Jr.
+      - Olinic, D.
+    title: Distributed system for medical image acquisition, processing, storage, and retrieval
+    publisher: First RoEduNet Conference
+    date: April 2002
+    file: missing
+  - authors:
+      - Nedevschi, S.
+      - Salomie, I.
+      - Gyongyi, Z.
+      - Teodorescu, R.
+      - Nedevschi, S., Jr.
+      - Olinic, D.
+    title: Retrieval of DICOM ultrasound images based on structured medical description
+    publisher: International Conference on Emerging Telecommunications Technologies and Applications
+    date: October 2001
+    file: missing
+  - authors:
+      - Nedevschi, S.
+      - Gyongyi, Z.
+      - Teodorescu, R.
+      - Nedevschi, S., Jr.
+      - Olinic, D.
+    title: E-environment for medical image processing
+    publisher: Electronic Business on the Internet
+    date: October 2001
+    file: missing
+  - authors:
+      - Nedevschi, S.
+      - Olinic, D.
+      - Gyongyi, Z.
+      - Teodorescu, R.
+      - Nedevschi, S., Jr.
+    title: Feature based retrieval of echocardiographic images using DICOM structured reporting
+    publisher: IEEE Computers in Cardiology
+    date: September 2001
+    file: missing
