@@ -46,30 +46,30 @@ body {
   float: right;
 }
 
-#about_me, #teaching, #contact {
+#about_me {
   background-color: rgba(165, 165, 165, 0.89);
 }
 
-#about_me .heading, #teaching .heading, #contact .heading {
+#about_me .heading {
   font-family: "Times New Roman", Times, serif;
 }
 
-#about_me p, #teaching p, #contact p {
+#about_me p {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.1em; /* Increase size for readibility */
 }
 
 /* unvisited link */
-#about_me a:link, #teaching a:link, #contact a:link {
-  color: #ff0000c0;
+#about_me a:link {
+  color: #ff000094
 }
 
 /* visited link */
-#about_me a:visited, #teaching a:visited, #contact a:visited {
+#about_me a:visited {
   color: rgba(63, 63, 63, 0.89);
 }
 
 /* mouse over link */
-#about_me a:hover, #teaching a:hover, #contact a:hover {
+#about_me a:hover {
   color: #0026ffda;
 }

@@ -1,27 +1,27 @@
-#about_me, #teaching, #contact {
+#about_me {
     background-color: rgba(165, 165, 165, 0.89);
 }
 
-.heading {
+#about_me .heading {
     font-family: "Times New Roman", Times, serif;
 }
 
-p {
+#about_me p {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 1.1em; /* Increase size for readibility */
 }
 
 /* unvisited link */
-a:link {
-    color: #ff0000c0;
+#about_me a:link {
+    color: #ff000094
 }
 
 /* visited link */
-a:visited {
+#about_me a:visited {
     color: rgba(63, 63, 63, 0.89);
 }
   
 /* mouse over link */
-a:hover {
+#about_me a:hover {
     color: #0026ffda;
 }
