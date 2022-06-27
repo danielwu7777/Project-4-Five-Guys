@@ -45,3 +45,31 @@ body {
   align-content: center;
   float: right;
 }
+
+#about_me, #teaching, #contact {
+  background-color: rgba(165, 165, 165, 0.89);
+}
+
+#about_me .heading, #teaching .heading, #contact .heading {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#about_me p, #teaching p, #contact p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.1em; /* Increase size for readibility */
+}
+
+/* unvisited link */
+#about_me a:link, #teaching a:link, #contact a:link {
+  color: #ff0000c0;
+}
+
+/* visited link */
+#about_me a:visited, #teaching a:visited, #contact a:visited {
+  color: rgba(63, 63, 63, 0.89);
+}
+
+/* mouse over link */
+#about_me a:hover, #teaching a:hover, #contact a:hover {
+  color: #0026ffda;
+}
