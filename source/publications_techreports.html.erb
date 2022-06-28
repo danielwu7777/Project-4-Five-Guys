@@ -1,0 +1,16 @@
+<div id="conference_publications">
+  <% data.technical_papers.papers.each do |paper| %>
+    <span class="authors">
+      <% paper.authors.each do |author| %>
+        <%= author %>,
+      <%end %>
+    </span>
+    <span class="paper_title"><%= paper.title %></span>,
+    <span class="paper_identifier"><%= paper.identifier %></span>,
+    <span class="paper_publisher"><%= paper.parent %></span>
+    <span class="paper_date"><%= paper.date %></span>
+    <a class="paper_file" href="<%= paper.file %>">[pdf]</a>
+    <br>
+    <br>
+  <% end %>
+</div>
