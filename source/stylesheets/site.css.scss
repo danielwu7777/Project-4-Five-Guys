@@ -1,11 +1,25 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.1em;
   padding: 0px;
   margin: 0px;
   background-color: gray;
+}
+
+a:link {
+  color: #ff000094
+}
+
+a:visited {
+  color: rgba(255, 255, 255, 0.904);
+}
+
+a:hover {
+  color: #0026ffda;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif;
 }
 
 .middleman-logo {
@@ -44,32 +58,4 @@ body {
   display: inline;
   align-content: center;
   float: right;
-}
-
-#about_me {
-  background-color: rgba(165, 165, 165, 0.89);
-}
-
-#about_me .heading {
-  font-family: "Times New Roman", Times, serif;
-}
-
-#about_me p {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.1em; /* Increase size for readibility */
-}
-
-/* unvisited link */
-#about_me a:link {
-  color: #ff000094
-}
-
-/* visited link */
-#about_me a:visited {
-  color: rgba(63, 63, 63, 0.89);
-}
-
-/* mouse over link */
-#about_me a:hover {
-  color: #0026ffda;
 }
