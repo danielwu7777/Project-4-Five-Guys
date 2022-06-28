@@ -1,3 +1,6 @@
+//Created 6/25/2022 by Noah Moon
+//Edited 6/28/2022 by Noah Moon
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
     "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
@@ -13,9 +16,10 @@ body {
   width: 10rem;
 }
 
-#nav_div{
+#nav_div {
   background-color: red;
-  width : 100%
+  width : 100%;
+  margin-bottom: 10px;
 }
 #Nav_List {
   margin: 0;
@@ -23,10 +27,10 @@ body {
   overflow: hidden;
   list-style-type: none;
 }
-.nav_item{
+.nav_item {
   float: left;
 }
-.nav_item a{
+.nav_item a {
   display: block;
   color: white;
   text-align: center;
@@ -35,11 +39,11 @@ body {
   font-size: xx-large;
   margin-right: 10px;
 }
-.nav_item a:hover{
+.nav_item a:hover {
   color: red;
   background-color: #333333;
 }
-#logo{
+#logo {
   height: 50px;
   display: inline;
   align-content: center;
