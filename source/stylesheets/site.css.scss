@@ -13,7 +13,7 @@ body {
   width: 10rem;
 }
 
-#nav_div{
+#nav_div {
   background-color: red;
   width : 100%
 }
@@ -23,10 +23,10 @@ body {
   overflow: hidden;
   list-style-type: none;
 }
-.nav_item{
+.nav_item {
   float: left;
 }
-.nav_item a{
+.nav_item a {
   display: block;
   color: white;
   text-align: center;
@@ -35,11 +35,11 @@ body {
   font-size: xx-large;
   margin-right: 10px;
 }
-.nav_item a:hover{
+.nav_item a:hover {
   color: red;
   background-color: #333333;
 }
-#logo{
+#logo {
   height: 50px;
   display: inline;
   align-content: center;
