@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 #about_me {
     background-color: rgba(165, 165, 165, 0.89);
-=======
-#about_me, #teaching, #contact {
-    background-color: gray;
->>>>>>> e4efdfe9e489e981f99a8436c80b73ce65561a66
 }
 
 #about_me .heading {
@@ -17,13 +12,8 @@
 }
 
 /* unvisited link */
-<<<<<<< HEAD
 #about_me a:link {
     color: #ff000094
-=======
-a:link {
-    color: #ff000094;
->>>>>>> e4efdfe9e489e981f99a8436c80b73ce65561a66
 }
 
 /* visited link */
