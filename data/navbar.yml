@@ -2,7 +2,7 @@
 #Edited 6/29/2022 by Jake McCann
 nav_items:
   - title: About
-    link: about.html
+    link: index.html
   - title: Publications
     link: publications.html
   - title: Presentations
