@@ -1,15 +1,30 @@
 //Created 6/25/2022 by Noah Moon
 //Edited 6/28/2022 by Noah Moon
+//Edited 6/28/2022 by Daniel Wu
 
+/* Created 6/28/2022 by Daniel Wu */
+/* Defaults for all pages */
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
-    "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans",
-    "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
-    "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1.1em;
   padding: 0px;
   margin: 0px;
   background-color: gray;
 }
+  
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/*----------------------------------------------------*/
+
+/* Created 6/28/2022 by Daniel Wu */
+/* Styles for all content (excludes navigation bar) */
+.content {
+  margin: 30px 140px 60px;
+}
+
+/*----------------------------------------------------*/
 
 .middleman-logo {
   margin-bottom: 1rem;
@@ -49,3 +64,4 @@ body {
   align-content: center;
   float: right;
 }
+
