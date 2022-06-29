@@ -1,0 +1,13 @@
+nav_items:
+  - title: About
+    link: about.html
+  - title: Conference Publications
+    link: publications_conference.html
+  - title: Technology Reports
+    link: publications_techreports.html
+  - title: Theses Paper
+    link: publications_theses.html
+  - title: Workshop Paper
+    link: publications_workshop.html
+  - title: Presentations
+    link: presentations.html
