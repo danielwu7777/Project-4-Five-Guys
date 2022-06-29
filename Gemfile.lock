@@ -24,7 +24,7 @@ GEM
     fast_blank (1.0.1)
     fastimage (2.2.6)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-unknown)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
@@ -105,7 +105,8 @@ GEM
     zeitwerk (2.6.0)
 
 PLATFORMS
-  x64-mingw-ucrt
+  universal-darwin-21
+  x64-unknown
   x86_64-linux
 
 DEPENDENCIES
@@ -115,4 +116,4 @@ DEPENDENCIES
   wdm (~> 0.1)
 
 BUNDLED WITH
-   2.3.16
+   2.3.15
