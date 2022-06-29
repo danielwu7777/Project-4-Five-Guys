@@ -1,0 +1,24 @@
+papers:
+  - title: Ph.D. Thesis
+    dissertation: Multilayer Techniques to Address Parameter Variation
+    university: University of Illinois at Urbana-Champaign
+    date: October 2008
+    advisor: Josep Torrellas
+    file:
+    awards:
+  - title: Master's Thesis
+    dissertation: Prototyping Architectural Support for Program Rollback Using Programmable Logic
+    university: University of Illinois at Urbana-Champaign
+    date: May 2005
+    advisor: Josep Torrellas
+    file: https://web.cse.ohio-state.edu/~teodorescu.1/download/papers/teodorescu-MS-thesis.pdf
+    awards:
+      - name: David J. Kuck Outstanding Thesis Award
+        file: http://www.cs.uiuc.edu/awards/awards.php?name=kuck
+  - title: Engineer Diploma Thesis
+    dissertation: DICOM Compliant Structured Reports - Encoding and Communication
+    university: Technical University of Cluj-Napoca
+    date: June 2002
+    advisor: Sergiu Nedevschi
+    file:
+    awards:
