@@ -1,13 +1,9 @@
+#Created 6/28/2022 by Noah Moon
+#Edited 6/29/2022 by Jake McCann
 nav_items:
   - title: About
     link: about.html
-  - title: Conference Publications
-    link: publications_conference.html
-  - title: Technology Reports
-    link: publications_techreports.html
-  - title: Theses Paper
-    link: publications_theses.html
-  - title: Workshop Paper
-    link: publications_workshop.html
+  - title: Publications
+    link: publications.html
   - title: Presentations
     link: presentations.html
