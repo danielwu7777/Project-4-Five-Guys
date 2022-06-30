@@ -1,3 +1,4 @@
+#Created 6/26/2022 by Jake McCann
 papers:
   - authors:
       - Shimin Chen
@@ -24,8 +25,8 @@ papers:
     title: DICOM Compatible Distributed System for Medical Image Acquisition, Processing, Storage, and Retrieval in Hospital Environments
     identifier: TR 34970/2001
     parent: Technical University of Cluj-Napoca, Romania
-    date: missing
-    file: missing
+    date:
+    file:
   - authors:
       - Nedevschi, S.
       - Pusztai, K.
@@ -37,8 +38,8 @@ papers:
     title: Research and Application Development in the Domains of Reconfigurable Architectures and Rapid Prototyping
     identifier: TR 37118/2000
     parent: Technical University of Cluj-Napoca, Romania
-    date: missing
-    file: missing
+    date:
+    file:
   - authors:
       - Nedevschi, S.
       - Pusztai, K.
@@ -49,5 +50,5 @@ papers:
     title: Research in the Domain of Reconfigurable Architectures, Development of Teaching Aids and Demonstrative Materials
     identifier: TR 33830/1999
     parent: Technical University of Cluj-Napoca, Romania
-    date: missing
-    file: missing
+    date:
+    file:

@@ -1,3 +1,4 @@
+#Created 6/26/2022 by Jake McCann
 papers:
   - authors:
       - Saikat Majumdar
@@ -24,7 +25,7 @@ papers:
     title: Fused DSConv&#58; Optimizing Sparse CNN Inference for Execution on Edge Devices
     publisher: IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing, (CCGrid)
     date: May 2021
-    file: missing
+    file:
   - authors:
       - Mohammad Samavatian
       - Anys Bacha
@@ -133,7 +134,7 @@ papers:
     title: Snatch&#58; Opportunistically Reassigning Power Allocation between Processor and Memory in 3D Stacks
     publisher: International Symposium on Microarchitecture (MICRO)
     date: October 2016
-    file: missing
+    file:
   - authors:
       - Yuan Xiao
       - Xiaokuan Zhang
@@ -174,14 +175,14 @@ papers:
     title: Using ECC Feedback to Guide Voltage Speculation in Low-Voltage Processors
     publisher: International Symposium on Microarchitecture (MICRO)
     date: December 2014
-    file: missing
+    file:
   - authors:
       - Xiang Pan
       - Radu Teodorescu
     title: NVSleep&#58; Using Non-Volatile Memory to Enable Fast Sleep/Wakeup of Idle Cores
     publisher: IEEE International Conference on Computer Design (ICCD)
     date: October 2014
-    file: missing
+    file:
   - authors:
       - Anys Bacha
       - Radu Teodorescu
@@ -312,7 +313,7 @@ papers:
     title: Integrated Medical Imaging Environment
     publisher: International Conference on Automation, Quality, and Testing, Robotics
     date: May 2002
-    file: missing
+    file:
   - authors:
       - Nedevschi, S.
       - Gyongyi, Z.
@@ -322,7 +323,7 @@ papers:
     title: Distributed system for medical image acquisition, processing, storage, and retrieval
     publisher: First RoEduNet Conference
     date: April 2002
-    file: missing
+    file:
   - authors:
       - Nedevschi, S.
       - Salomie, I.
@@ -333,7 +334,7 @@ papers:
     title: Retrieval of DICOM ultrasound images based on structured medical description
     publisher: International Conference on Emerging Telecommunications Technologies and Applications
     date: October 2001
-    file: missing
+    file:
   - authors:
       - Nedevschi, S.
       - Gyongyi, Z.
@@ -343,7 +344,7 @@ papers:
     title: E-environment for medical image processing
     publisher: Electronic Business on the Internet
     date: October 2001
-    file: missing
+    file:
   - authors:
       - Nedevschi, S.
       - Olinic, D.
@@ -353,4 +354,4 @@ papers:
     title: Feature based retrieval of echocardiographic images using DICOM structured reporting
     publisher: IEEE Computers in Cardiology
     date: September 2001
-    file: missing
+    file:

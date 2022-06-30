@@ -1,0 +1,20 @@
+<!-- Created 6/25/2022 by Jake McCann-->
+<!-- Edited 6/28/2022 by Jake MCCann-->
+<div id="workshop_publications">
+  <h2>Workshop Papers</h2>
+  <% data.workshop_papers.papers.each do |paper| %>
+    <div class="publication">
+        <span class="authors">
+          <% paper.authors.each do |author| %>
+            <%= author %>,
+          <%end %>
+        </span>
+        <span class="paper_title"><%= paper.title %></span>,
+        <span class="paper_publisher"><%= paper.workshop %></span>,
+        <span class="paper_date"><%= paper.date %></span>
+        <% if paper.file != nil %>
+          <a class="paper_file" href="<%= paper.file %>">[pdf]</a>
+        <% end %>
+    </div>
+  <% end %>
+</div>

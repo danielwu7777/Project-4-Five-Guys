@@ -1,0 +1,20 @@
+<!-- Created 6/28/2022 by Jake McCann-->
+<!-- Edited 6/29/2022 by Jake MCCann-->
+<div id="theses_publications">
+  <h2>Theses</h2>
+  <% data.theses.papers.each do |paper| %>
+    <div class="publication">
+      <h3><%= paper.title %></h3>
+      <span class="paper_title"><%= paper.dissertation %></span>,
+      <span class="paper_publisher"><%= paper.university %></span>,
+      <span class="paper_date"><%= paper.date %></span>.
+      <span class="paper_advisor"><%= paper.advisor %>, advisor.</span>
+      <% if paper.file != nil %>
+        <a class="paper_file" href="<%= paper.file %>">[pdf]</a>
+      <%end %>
+      <% paper.awards&.each do |award| %>
+        <div class="paper_award">[Winner of the <a href="<%= award.file %>"><%= award.name %></a>.]</div>
+      <% end %>
+    </div>
+  <% end %>
+</div>
