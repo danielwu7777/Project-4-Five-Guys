@@ -1,5 +1,6 @@
 <!-- Created 6/25/2022 by Noah Moon-->
 <!-- Edited 6/28/2022 by Noah Moon-->
+<!-- Edited 6/29/2022 by Jake McCann-->
 <!doctype html>
 <html lang = "en">
   <head>
@@ -8,10 +9,10 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "Middleman" %></title>
-    <!-- <%= stylesheet_link_tag "site" %> <link href="/stylesheets/site.css" rel="stylesheet" />-->
+    <title><%= current_page.data.title || "Missing Title" %></title>
     <link href="./stylesheets/site.css" rel="stylesheet" />
     <link href="./stylesheets/publications.css" rel="stylesheet" />
+    <link href="./stylesheets/presentations.css" rel="stylesheet" />
   </head>
   <body>
     <%= partial "navbar" %>
@@ -20,4 +21,3 @@
     </div>
   </body>
 </html>
-<!-- use yaml -->

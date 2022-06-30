@@ -1,7 +1,8 @@
 <!-- Created 6/27/2022 by Noah Moon-->
 <!-- Edited 6/28/2022 by Noah Moon-->
+<!-- Edited 6/29/2022 by Jake McCann-->
 <div id = "nav_div">
-  <a href = "about.html"><%= tag :img, :src => "../source/images/OSU_logo.png", :id => "logo", alt: "OSU Logo" %></a>
+  <a href = "index.html"><%= tag :img, :src => "../source/images/OSU_logo.png", :id => "logo", alt: "OSU Logo" %></a>
   <ul id = "Nav_List">
     <% data.navbar.nav_items.each do |item| %>
       <li class = "nav_item"><a href = "<%= item.link %>"><%= item.title %></a></li>
