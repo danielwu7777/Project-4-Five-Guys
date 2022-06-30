@@ -4,6 +4,10 @@ We redid this guys site: https://web.cse.ohio-state.edu/~teodorescu.1/
 
 Positions:
 - Hao: Project manager / meeting manager
-- Daniel: Imlementation Manager
-- Noah: Documentation Manger
+    - Tasks: Presentation page HTML/CSS
+- Daniel: Implementation Manager
+    - Tasks: About page HTML/CSS
+- Noah: Documentation Manager
+    - Tasks: Navbar/Footer HTML/CSS
 - Jake: Testing manager
+    - Tasks: Publication page HTML/CSS
